@@ -21,7 +21,7 @@ File's description:
 
 ## Installation
 
-1. Clone the repository.
+1. Clone the repository `git clone https://github.com/amireskandariii/motionedit.git`.
 2. Navigate to the project directory.
 3. Install requirements with `pip install -r requirements.txt` or `pip3 install -r requirements.txt`.
 
