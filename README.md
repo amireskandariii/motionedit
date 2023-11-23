@@ -1,4 +1,4 @@
-# Motion Capture BVH Splicing and Concatenating Script
+# Motion Capture BVH Editing
 
 This Python script allows users to splice and concatenate two motion capture files in BVH format. Other editing operations will be added in the future.
 
