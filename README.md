@@ -8,7 +8,7 @@ File's description:
 - `Animation.py` - describing motions loaded from bvh file.
 - `Quaternion.py` - rotation representation and its related code and conversion to matrix representation as well.
 
-## Overview
+## Features
 
 - **Splicing**: Extract a specific frame range from one BVH file and add it to another BVH file.
 - **Concatenation**: Seamlessly merge two BVH files' motion sequences into one.
