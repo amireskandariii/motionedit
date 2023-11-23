@@ -28,7 +28,9 @@ File's description:
 ## Usage
 
 0.I. Update the `file_path` variable in `MotionEditing.py` to the directory containing the BVH files on line 83.
+
 0.II. Update the file names in `MotionEditing.py` on line 85 and 92 to the desired BVH files. 
+
 1. Run `python MotionEditing.py` or `python3 MotionEditing.py` in the terminal.
 2. Edited BVH files will be saved in the same directory as the original BVH files named as `result_spliced.bvh` and `result_concatenated.bvh`
 
