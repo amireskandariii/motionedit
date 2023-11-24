@@ -1,4 +1,4 @@
-# Motion Capture BVH Editing
+# Motion Capture BVH Editing (Forward Kinematics)
 
 This Python script allows users to splice and concatenate two motion capture files in BVH format. Other editing operations will be added in the future.
 
